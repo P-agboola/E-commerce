@@ -26,21 +26,3 @@ Creating the backend for an E-commerce web application. Which includes the follo
     The documentation can be found in the link below :
 
 ( https://documenter.getpostman.com/view/22630811/2s83tJGWDb)
-
-# Project members
-
-    Nnadozie Anika
-    Obi Chukwudi Edwin
-    Edem Emmanuel Gabriel
-    Peter Oluwafemi Agboola
-    Jerry Obi
-    Joshua Olutunde
-    Okpala Julianah Ebunoluwa
-    Okoli Kingsley
-    Olutola Oluruntobi Paul
-    Opadeji Sheriff Akorede
-    Emmanuel Obikunle
-    Samson Nnabuife
-    Obiako Anthony
-
-# E-commerce
