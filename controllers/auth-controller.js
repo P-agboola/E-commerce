@@ -42,6 +42,7 @@ exports.signUp = CatchAsync(async (req, res, next) => {
     fullName,
     password,
     passwordConfirm,
+    role,
   });
 
   createAndSendToken(user, 201, res);
