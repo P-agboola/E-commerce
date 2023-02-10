@@ -1,4 +1,4 @@
-# September_Project
+# Ecommerce
 
 Creating the backend for an E-commerce web application. Which includes the following rquirements below;
 
@@ -42,4 +42,5 @@ Creating the backend for an E-commerce web application. Which includes the follo
     Emmanuel Obikunle
     Samson Nnabuife
     Obiako Anthony
+
 # E-commerce
